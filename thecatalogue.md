@@ -16,7 +16,8 @@ This project breaks down the adaptations already published or released by the no
 <figure>
   <img alt="Jane Austen" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg" />
   <figcaption>
-    Drawing by Cassandra Austen and sourced from the National Portrait Gallery, Public domain, via Wikimedia Commons href="https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg"><img width="256" alt="CassandraAusten-JaneAusten(c.1810)"></a>
+    Drawing by Cassandra Austen and sourced from the National Portrait Gallery, Public domain, via Wikimedia Commons           
+    <a href="https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg"><img width="256" alt="CassandraAusten-JaneAusten(c.1810)"></a>
   </figcaption>
 </figure>
 
